@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Component1 /> should display a blank login form, with remember me checked by default 1`] = `
+<div>
+  <div>
+    Hello World!
+  </div>
+</div>
+`;
